@@ -49,23 +49,6 @@ ng build
 O Angular irá gerar os artefatos de build na pasta `dist/`.  
 Por padrão, o build de produção otimiza a aplicação para melhor desempenho.
 
-## Testes unitários
-
-Para executar os testes unitários com o Karma, utilize o comando:
-
-```bash
-ng test
-```
-
-## Testes end-to-end
-
-Para rodar testes de ponta a ponta (e2e), execute:
-
-```bash
-ng e2e
-```
-
-**Observação:** O Angular CLI não inclui, por padrão, um framework para testes e2e. Você pode escolher a ferramenta que preferir.
 
 ## Recursos adicionais
 
